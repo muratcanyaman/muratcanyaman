@@ -90,7 +90,7 @@
 
 <div align="center">
   
-### 💡 "The goal is to turn data into information, and information into insight." - Carly Fiorina
+### 💡 "Data is the new oil." - Clive Humby
 
 **Thanks for visiting my profile! ⭐**
 
