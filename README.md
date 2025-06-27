@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My Name is Murat Can Yaman. I'm a Computer Engineer.</h2>
+<h2 align="left">Hi 👋! My Name is Murat Can Yaman. I'm a Computer Engineering Student at Çanakkale Onsekiz Mart University.</h2>
   
 <h2 align="left">I am interested in Data Science and Machine Learning and I am developing myself in these fields.</h2>
 
