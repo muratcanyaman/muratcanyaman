@@ -82,7 +82,6 @@
 
 <br clear="both">
 
-<!-- Snake animation will appear here after setting up the repository and running GitHub Actions -->
 
 ---
 
