@@ -72,12 +72,3 @@
 
 ---
 
-<div align="center">
-  
-### 💡 "Data is the new oil." - Clive Humby
-
-**Thanks for visiting my profile! ⭐**
-
-</div>
-
-### 
